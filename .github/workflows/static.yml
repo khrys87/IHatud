@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>IHATUD - Ako Hatud</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f8f8f8;
+    }
+
+    header {
+      background-color: #8c52ff;
+      color: white;
+      padding: 1rem;
+      text-align: center;
+    }
+
+    nav {
+      background-color: #220459;
+      padding: 0.5rem;
+      text-align: center;
+    }
+
+    nav a {
+      color: white;
+      margin: 0 1rem;
+      text-decoration: none;
+    }
+
+    .hero {
+      padding: 2rem;
+      text-align: center;
+      background-color: #eae4ff;
+    }
+
+    .section {
+      padding: 2rem;
+      text-align: center;
+    }
+
+    footer {
+      background-color: #d80b80;
+      color: white;
+      padding: 1rem;
+      text-align: center;
+    }
+
+    .checkout-box {
+      background-color: #fff;
+      border-radius: 10px;
+      padding: 1rem;
+      margin: 2rem auto;
+      max-width: 400px;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>IHATUD</h1>
+    <p><em>"Ako Hatud"</em> – Your Delivery Buddy</p>
+  </header>
+
+  <nav>
+    <a href="#">Home</a>
+    <a href="#">Groceries</a>
+    <a href="#">Market Items</a>
+    <a href="#">Picnic Food</a>
+    <a href="#">Contact</a>
+  </nav>
+
+  <div class="hero">
+    <h2>Fast and Reliable Delivery</h2>
+    <p>We deliver groceries, market goods, and more — right to your doorstep.</p>
+  </div>
+
+  <div class="section">
+    <h3>GCash Payment Info</h3>
+    <div class="checkout-box">
+      <p><strong>Pay to:</strong> Helda A. Sebilo</p>
+      <p><strong>GCash No.:</strong> 0965 419 0608</p>
+      <p><strong>Service Fee:</strong> 10% of Total Order</p>
+    </div>
+  </div>
+
+  <footer>
+    <p>&copy; 2025 IHATUD. All rights reserved.</p>
+  </footer>
+
+</body>
+</html>
